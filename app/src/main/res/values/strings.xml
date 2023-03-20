@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="hint_edittext">Coloque alguma coisa</string>
+    <string name="text_button">Calcule seu IMC</string>
+</resources>
